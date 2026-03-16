@@ -5,7 +5,7 @@ const { createClient } = require("@supabase/supabase-js")
 const app = express()
 app.use(express.json())
 
-const TOKEN = "TOKEN_FONNTE"
+const TOKEN = "QnwF1YfKSW9Ayd6CLSJT"
 
 // ======================
 // SUPABASE
